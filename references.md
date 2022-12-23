@@ -1,7 +1,4 @@
-# References
 
-* octocat 1 😈# References
+In conclict with the main branch
+=======
 
-* octocat 1 😈# References
-
-* octocat 1 😈
